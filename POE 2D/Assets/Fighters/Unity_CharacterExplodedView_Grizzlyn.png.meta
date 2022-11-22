@@ -1,0 +1,543 @@
+fileFormatVersion: 2
+guid: ef7c7eadde80a864fb4ab64a312d35c8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Unity_CharacterExplodedView_Grizzlyn_0
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 3040
+        width: 195
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d499f4c91205d2543902c8f78f9b235d
+      internalID: 839979911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_CharacterExplodedView_Grizzlyn_1
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 3030
+        width: 215
+        height: 379
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24b11434a4f88f45be765ab4777749f
+      internalID: 1455562699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_CharacterExplodedView_Grizzlyn_2
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 2817
+        width: 760
+        height: 707
+      alignment: 9
+      pivot: {x: 0.5413608, y: 0.014334887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34f378a220cc964ebccabda65f3a0f2
+      internalID: -1262706530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_CharacterExplodedView_Grizzlyn_3
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 2979
+        width: 373
+        height: 494
+      alignment: 9
+      pivot: {x: 0.056115035, y: 0.7945359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546011990e1f43e4aa345f58a0c42ad3
+      internalID: -1918450415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_CharacterExplodedView_Grizzlyn_6
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 2567
+        width: 352
+        height: 355
+      alignment: 9
+      pivot: {x: 0.8291085, y: 0.77193964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6c881e238ad914a8aa0daa5f10fb96
+      internalID: -1407634432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_CharacterExplodedView_Grizzlyn_7
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 1569
+        width: 814
+        height: 1218
+      alignment: 9
+      pivot: {x: 0.4938365, y: 0.100432396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337003ea5b886c4419dd7830c69dd7df
+      internalID: -1246820285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_CharacterExplodedView_Grizzlyn_8
+      rect:
+        serializedVersion: 2
+        x: 3098
+        y: 2583
+        width: 343
+        height: 357
+      alignment: 9
+      pivot: {x: 0.83643717, y: 0.83729774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94abdbaf07c3bce4babd6b0bd9540a77
+      internalID: -51483329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_CharacterExplodedView_Grizzlyn_9
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2195
+        width: 321
+        height: 286
+      alignment: 9
+      pivot: {x: 0.8248022, y: 0.09494424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7219e0e75f58f6141bc4fdcf93566774
+      internalID: 1978196066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_CharacterExplodedView_Grizzlyn_10
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1966
+        width: 396
+        height: 491
+      alignment: 9
+      pivot: {x: 0.8705515, y: 0.9010967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76764b4b21bb39041a059261e9b3845b
+      internalID: -2128419398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_CharacterExplodedView_Grizzlyn_11
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 2168
+        width: 325
+        height: 297
+      alignment: 9
+      pivot: {x: 0.79455155, y: 0.06392128}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55f5a4e1f3e5e04ca1d63563944f4c5
+      internalID: 39426472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_CharacterExplodedView_Grizzlyn_12
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 1883
+        width: 394
+        height: 489
+      alignment: 9
+      pivot: {x: 0.8092846, y: 0.93477154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c94168b18b34674aafd539600d86b86
+      internalID: -1889453918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_CharacterExplodedView_Grizzlyn_13
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1562
+        width: 670
+        height: 603
+      alignment: 9
+      pivot: {x: 0.9034443, y: 0.3655188}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f23f6fc242bb840b86d952892f53cc
+      internalID: -1184165522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_CharacterExplodedView_Grizzlyn_14
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 744
+        width: 573
+        height: 849
+      alignment: 9
+      pivot: {x: 0.830219, y: 0.9366403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa3de32664face4cbedd3636a730de1
+      internalID: -1868493077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_CharacterExplodedView_Grizzlyn_15
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 699
+        width: 655
+        height: 890
+      alignment: 9
+      pivot: {x: 0.06373524, y: 0.92520314}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7679b174f324b4fa14249a660d9abc
+      internalID: -89610413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_CharacterExplodedView_Grizzlyn_16
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 1400
+        width: 546
+        height: 717
+      alignment: 9
+      pivot: {x: 0.90696007, y: 0.27963686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bda337f4df96f74dbbf8390285f56ac
+      internalID: 1300738859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_CharacterExplodedView_Grizzlyn_17
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 203
+        width: 415
+        height: 974
+      alignment: 9
+      pivot: {x: 0.43486577, y: 0.8766388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b625c540eeb99438a5c51bfd1a12b2
+      internalID: -2122864444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_CharacterExplodedView_Grizzlyn_18
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 85
+        width: 574
+        height: 236
+      alignment: 9
+      pivot: {x: 0.7623693, y: 0.90906173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f65f4f356f046d4d8e31f65d2d4e503
+      internalID: -1503700796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_CharacterExplodedView_Grizzlyn_19
+      rect:
+        serializedVersion: 2
+        x: 2311
+        y: 103
+        width: 576
+        height: 235
+      alignment: 9
+      pivot: {x: 0.27876663, y: 0.9436662}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ade007446b06f14892321ee108d199b
+      internalID: -1235073824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_CharacterExplodedView_Grizzlyn_20
+      rect:
+        serializedVersion: 2
+        x: 2943
+        y: 122
+        width: 406
+        height: 974
+      alignment: 9
+      pivot: {x: 0.58560073, y: 0.88060325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fccef57549acb04594db1d93c464669
+      internalID: 2033910683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e07792a976f78f14a9f67ec13237cebf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Unity_CharacterExplodedView_Grizzlyn_6: -1407634432
+      Unity_CharacterExplodedView_Grizzlyn_7: -1246820285
+      Unity_CharacterExplodedView_Grizzlyn_14: -1868493077
+      Unity_CharacterExplodedView_Grizzlyn_8: -51483329
+      Unity_CharacterExplodedView_Grizzlyn_19: -1235073824
+      Unity_CharacterExplodedView_Grizzlyn_11: 39426472
+      Unity_CharacterExplodedView_Grizzlyn_3: -1918450415
+      Unity_CharacterExplodedView_Grizzlyn_16: 1300738859
+      Unity_CharacterExplodedView_Grizzlyn_0: 839979911
+      Unity_CharacterExplodedView_Grizzlyn_2: -1262706530
+      Unity_CharacterExplodedView_Grizzlyn_15: -89610413
+      Unity_CharacterExplodedView_Grizzlyn_17: -2122864444
+      Unity_CharacterExplodedView_Grizzlyn_9: 1978196066
+      Unity_CharacterExplodedView_Grizzlyn_13: -1184165522
+      Unity_CharacterExplodedView_Grizzlyn_12: -1889453918
+      Unity_CharacterExplodedView_Grizzlyn_4: 1009753657
+      Unity_CharacterExplodedView_Grizzlyn_10: -2128419398
+      Unity_CharacterExplodedView_Grizzlyn_1: 1455562699
+      Unity_CharacterExplodedView_Grizzlyn_20: 2033910683
+      Unity_CharacterExplodedView_Grizzlyn_5: 1095567036
+      Unity_CharacterExplodedView_Grizzlyn_18: -1503700796
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
