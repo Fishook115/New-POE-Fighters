@@ -6,7 +6,7 @@ TextureImporter:
   serializedVersion: 12
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -36,9 +36,9 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -51,7 +51,7 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
@@ -105,7 +105,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Unity_CharacterExplodedViewArm_Grizzlyn_0
+      name: B_Arm
       rect:
         serializedVersion: 2
         x: 556
@@ -113,20 +113,20 @@ TextureImporter:
         width: 670
         height: 603
       alignment: 9
-      pivot: {x: 0.89879185, y: 0.38270804}
+      pivot: {x: 0.89879185, y: 0.36967587}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d6a931d1146a2d546a3a9587da7b2229
-      internalID: -1246555365
+      spriteID: 97cb83dc89e326d44b8c50054f2e3cff
+      internalID: -736758211
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Unity_CharacterExplodedViewArm_Grizzlyn_1
+      name: F_Arm
       rect:
         serializedVersion: 2
         x: 2130
@@ -134,14 +134,14 @@ TextureImporter:
         width: 546
         height: 715
       alignment: 9
-      pivot: {x: 0.8886093, y: 0.2911715}
+      pivot: {x: 0.9030024, y: 0.2911715}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e0e1b7c64dc21b4396474ea00a23d62
-      internalID: -768132414
+      spriteID: 7e688ca800480114c8f09567dfb78135
+      internalID: 1409652522
       vertices: []
       indices: 
       edges: []
@@ -149,7 +149,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: a46468c2072aa9946a14fd411a9df7b6
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -157,8 +157,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Unity_CharacterExplodedViewArm_Grizzlyn_1: -768132414
-      Unity_CharacterExplodedViewArm_Grizzlyn_0: -1246555365
+      F_Arm: 1409652522
+      B_Arm: -736758211
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
