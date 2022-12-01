@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class GrizzlynPlayerController : MonoBehaviour
+public class GrizzlynControler : MonoBehaviour
 {
     float dirX, moveSpeed;
     Animator anim;
@@ -23,13 +23,13 @@ public class GrizzlynPlayerController : MonoBehaviour
 
         if (dirX != 0 && !anim.GetCurrentAnimatorStateInfo(0).IsName("Punch"))
         {
-            anim.SetBool ("isWalking", true);
+            anim.SetBool("isWalking", true);
         }
         else
         {
             anim.SetBool("isWalking", false);
         }
-        if (Input.GetButtonDown ("Fire1") && !anim.GetCurrentAnimatorStateInfo(0).IsName("Punch"))
+        if (Input.GetButtonDown("Fire1") && !anim.GetCurrentAnimatorStateInfo(0).IsName("Punch"))
         {
             anim.SetBool("isWalking", false);
             anim.SetTrigger("Punch");
