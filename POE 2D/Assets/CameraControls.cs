@@ -4,22 +4,22 @@ using UnityEngine;
 
 public class CameraControls : MonoBehaviour
 {
+
+    //Variables
+    public float cameraPanSpeed = -5f;
+    Vector2 startPos;
+
     // Start is called before the first frame update
     void Start()
     {
-        //Variables
-        public float cameraPanSpeed = 1f;
-
-        //Camera Slides Down Towards the Ground
-
-
-
-
-}
+        //Start Position
+        startPos = transform.position;
+    }
 
 // Update is called once per frame
-void Update()
+    void Update()
     {
-        
+        float newPos = Mathf.Repeat(Time.deltaTime * cameraPanSpeed, 20);
+        transform.position = startPos + Vector2.down * newPos;
     }
 }
