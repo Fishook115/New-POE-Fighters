@@ -5,9 +5,9 @@ using UnityEngine;
 public class CharacterSelectionScript : MonoBehaviour
 {
     public GameObject[] playerObjects;
-    public int selectedCharacter - 0;
+    public int selectedCharacter = 0;
 
-    public string gameScene "Character Selection Screen"
+    public string gameScene = "Character Selection Screen";
     // Start is called before the first frame update
     void Start()
     {
