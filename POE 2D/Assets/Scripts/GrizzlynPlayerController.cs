@@ -34,5 +34,7 @@ public class GrizzlynPlayerController : MonoBehaviour
             anim.SetBool("isWalking", false);
             anim.SetTrigger("Punch");
         }
+
+        
     }
 }
