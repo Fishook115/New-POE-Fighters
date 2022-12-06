@@ -8,18 +8,25 @@ public class CameraControls : MonoBehaviour
     //Variables
     public float cameraPanSpeed = -5f;
     Vector2 startPos;
+    public Transform ground;
 
     // Start is called before the first frame update
     void Start()
     {
         //Start Position
         startPos = transform.position;
+
     }
 
-// Update is called once per frame
+
+    // Update is called once per frame
     void Update()
     {
-        float newPos = Mathf.Repeat(Time.deltaTime * cameraPanSpeed, 20);
-        transform.position = startPos + Vector2.down * newPos;
+        //Vector2 newPos = new Vector2(100, Time.deltaTime * cameraPanSpeed);
+        //transform.position = new Vector2(15, Time.deltaTime * cameraPanSpeed);
+        //startPos + Vector2.down * newPos;
+        transform.position = Vector3.Lerp(transform.position, ground.position, Time.deltaTime);
     }
 }
+
+
