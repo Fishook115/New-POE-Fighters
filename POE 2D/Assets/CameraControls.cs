@@ -19,7 +19,6 @@ public class CameraControls : MonoBehaviour
     }
 
 
-    // Update is called once per frame
     void Update()
     {
         //Vector2 newPos = new Vector2(100, Time.deltaTime * cameraPanSpeed);
